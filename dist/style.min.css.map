@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,EACE,QAAS,EACT,OAAQ,EACR,WAAY,WACZ,gBAAiB,KACjB,WAAY,KAGd,aACE,WAAY","file":"style.min.css","sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n  box-sizing: border-box;\r\n  text-decoration: none;\r\n  list-style: none;\r\n}\r\nbody {\r\n  .navbar {\r\n    min-height: 6rem;\r\n  }\r\n}\r\n"]}
